@@ -14,6 +14,6 @@ Sistema de um jogo de xadrez desenvolvido durante o curso de Java do Prof. Néli
 
 6️⃣ Detecção de xeque e xeque-mate: Verifica se o rei de um jogador está em xeque ou em xeque-mate após cada jogada.
 
-8️⃣ Movimentos especiais: Movimentos especiais como roque, en passant, promoção de peão e empate por repetição de movimentos.
+7️⃣ Movimentos especiais: Movimentos especiais como roque, en passant, promoção de peão e empate por repetição de movimentos.
 
-9️⃣ Interface do usuário: Criada uma interface gráfica para que os jogadores possam interagir com o tabuleiro, realizar jogadas e receber feedback sobre o estado do jogo.
+8️⃣ Interface do usuário: Criada uma interface gráfica para que os jogadores possam interagir com o tabuleiro, realizar jogadas e receber feedback sobre o estado do jogo.

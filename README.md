@@ -1,5 +1,26 @@
 # Chess System Java ♟ 
-Sistema de um jogo de xadrez desenvolvido durante o curso de Java do Prof. Nélio Alves.
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/samuelmsilva2v/chess-system-java/blob/main/LICENSE) 
+
+Projeto de um sistema de Jogo de Xadrez desenvolvido em Java durante o [curso de Java do Prof. Nélio Alves](https://www.udemy.com/course/java-curso-completo/). 
+O projeto incorpora um modelo de domínio bem definido e uma estrutura de camadas lógicas.
+
+## Modelo conceitual
+![concept-model](https://github.com/acenelio/chess-system-design/blob/master/chess-system-design.png?raw=true)
+
+## Como executar o projeto:
+
+```bash
+# clonar repositório
+git clone https://github.com/samuelmsilva2v/chess-system-java/
+
+# entrar na pasta do projeto
+cd src
+cd application
+java application/Program
+
+# executar o projeto
+java application/Program
+```
 
 ## Funcionalidades
 1️⃣ Representação do tabuleiro: O tabuleiro de xadrez é representado como uma matriz de dados adequada para facilitar a manipulação das peças e suas posições.
@@ -17,3 +38,9 @@ Sistema de um jogo de xadrez desenvolvido durante o curso de Java do Prof. Néli
 7️⃣ Movimentos especiais: Movimentos especiais como roque, en passant, promoção de peão e empate por repetição de movimentos.
 
 8️⃣ Interface do usuário: Criada uma interface gráfica para que os jogadores possam interagir com o tabuleiro, realizar jogadas e receber feedback sobre o estado do jogo.
+
+# Autor
+
+Samuel Maciel da Silva
+
+www.linkedin.com/in/samuelmsilva2v

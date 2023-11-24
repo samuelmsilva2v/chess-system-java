@@ -11,12 +11,11 @@ O projeto incorpora um modelo de domínio bem definido e uma estrutura de camada
 
 ```bash
 # clonar repositório
-git clone https://github.com/samuelmsilva2v/chess-system-java/
+git clone git@github.com:samuelmsilva2v/chess-system-java.git
 
 # entrar na pasta do projeto
-cd src
-cd application
-java application/Program
+cd chess-system-java
+cd bin
 
 # executar o projeto
 java application/Program
